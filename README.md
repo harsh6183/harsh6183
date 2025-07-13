@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats:.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh6183&show_icons=true&theme=react" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6183&theme=react" />
