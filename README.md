@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fullstack projects**
 - 🌱 I’m currently learning **Node.js, Express.js and Spring Boot**
-- 👨‍💻 All of my projects are available at [[harshnimbalkar.vercel.app](https://harshportfolio6181.netlify.app/)]....
+- 👨‍💻 All of my projects are available at [[harshnimbalkar.vercel.app](https://harshportfolio6181.netlify.app/)]
 - 💬 Ask me about **Java, React.js, and UI design**
 - 📫 How to reach me **harshnimbalkar6181@gmail.com**
 - ⚡ Fun fact **I make bugs disappear with Ctrl+Z magic!**
