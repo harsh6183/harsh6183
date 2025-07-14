@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 Featured Projects:.
-- 🔗 [**Notesapp**](https://modernoteswebapp.netlify.app/): Modern Notesweb application....
+- 🔗 [**Notesapp**](https://modernoteswebapp.netlify.app/): Modern Notesweb application.
 - 🔗 [**PasswordGenerator**](https://innovativepasswordgenerator.netlify.app/): Personalized PasswordGenerator
 
 ---
