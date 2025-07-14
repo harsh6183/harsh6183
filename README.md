@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Featured Projects:.
+### 🚀 Featured Projects:
 - 🔗 [**Notesapp**](https://modernoteswebapp.netlify.app/): Modern Notesweb application.
 - 🔗 [**PasswordGenerator**](https://innovativepasswordgenerator.netlify.app/): Personalized PasswordGenerator
 
