@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Edito- Modern SaaS landing website**
-- 🌱 I’m currently learning **Next.js, Springboot**
+- 🌱 I’m currently learning **Next.js and building projects**
 - 👨‍💻 All of my projects are available at [harshnimbalkar](https://harsh-portfolioo.vercel.app/)
 - 💬 Ask me about **Java, React.js, Next.js and UI design**
 - 📫 How to reach me **harshnimbalkar6181@gmail.com**
