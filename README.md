@@ -24,13 +24,6 @@
 
 ---
 
-### 🚀 Featured Projects:
-| Project | Description | Tech Stack | Live Demo |
-|---------|------------|-----------|-----------|
-| **Edito** | Modern SaaS landing page | Next.js, Tailwind CSS | 
-| **Portfolio** | My personal developer portfolio | React, Tailwind CSS |
-
-
 ---
 
 ### 📊 GitHub Stats:
