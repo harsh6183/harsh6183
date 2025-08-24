@@ -2,39 +2,56 @@
 <h3 align="center">Aspiring Software Engineer | Fullstack Developer | Java</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Frontend+Specialist;Java+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **Edito- Modern SaaS landing website**
-- 🌱 I’m currently learning **Next.js and building projects.**
-- 👨‍💻 All of my projects are available at [harshnimbalkar](https://harsh-portfolioo.vercel.app/)
-- 💬 Ask me about **Java, React.js, Next.js and UI design**
-- 📫 How to reach me **harshnimbalkar6181@gmail.com**
-- ⚡ Fun fact **I make bugs disappear with Ctrl+Z magic !**
+---
+
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on **Edito — Modern SaaS Landing Website**
+- 🌱 Learning **Next.js** & building cool projects  
+- 👨‍💻 Check out my portfolio: [harshnimbalkar](https://harsh-portfolioo.vercel.app/)  
+- 💬 Ask me about **Java, React, Next.js, UI Design**
+- 📫 Reach me at **harshnimbalkar6181@gmail.com**
+- ⚡ Fun fact: *I make bugs disappear with Ctrl+Z magic!* 🪄
 
 ---
 
 ### 🛠 Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,spring,git,firebase,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,java,spring,git,firebase,mysql" />
 </p>
 
 ---
 
+### 🚀 Featured Projects:
+| Project | Description | Tech Stack | Live Demo |
+|---------|------------|-----------|-----------|
+| **Edito** | Modern SaaS landing page | Next.js, Tailwind CSS | [Live](https://edito.vercel.app/) |
+| **Portfolio** | My personal developer portfolio | React, Tailwind CSS | [Live](https://harsh-portfolioo.vercel.app/) |
+| **Todo Manager** | Task management app | React, Firebase | *Coming Soon* |
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh6183&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6183&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh6183&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6183&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Let's Connect:.
+### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/harsh-nimbalkar6183" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin" alt="linkedin" /></a>
-  <a href="mailto:harshnimbalkar6181@email.com"><img align="center" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="email" /></a>
+  <a href="https://linkedin.com/in/harsh-nimbalkar6183" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshnimbalkar6181@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+---
+
+### ✨ Fun Quote:
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
