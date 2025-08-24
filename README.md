@@ -27,9 +27,9 @@
 ### 🚀 Featured Projects:
 | Project | Description | Tech Stack | Live Demo |
 |---------|------------|-----------|-----------|
-| **Edito** | Modern SaaS landing page | Next.js, Tailwind CSS | [Live](https://edito.vercel.app/) |
-| **Portfolio** | My personal developer portfolio | React, Tailwind CSS | [Live](https://harsh-portfolioo.vercel.app/) |
-| **Todo Manager** | Task management app | React, Firebase | *Coming Soon* |
+| **Edito** | Modern SaaS landing page | Next.js, Tailwind CSS | 
+| **Portfolio** | My personal developer portfolio | React, Tailwind CSS |
+
 
 ---
 
