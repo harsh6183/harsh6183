@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Harsh Nimbalkar
 
-### 🚀 Full‑Stack Developer (Fresher) • Frontend Enthusiast • Java + AI Builder
+### 🚀 Full‑Stack Developer • Frontend Enthusiast • Java + AI Builder
 
 I’m an **entry‑level full stack developer** who loves building clean UIs and practical end‑to‑end projects.  
 Not super professional yet, but I can **ship solid frontend and full‑stack features** using modern tools.
