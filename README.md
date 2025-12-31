@@ -1,50 +1,45 @@
-<h1 align="center">Hi 👋, I'm Harsh Nimbalkar</h1>
-<h3 align="center">Aspiring Software Engineer | Fullstack Developer | Java</h3>
+# 👋 Hey, I'm Harsh Nimbalkar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Frontend+Specialist;Java+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+### 🚀 Full‑Stack Developer (Fresher) • Frontend Enthusiast • Java + AI Builder
 
----
-
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Well Fit — Modern SaaS Virutal Health Assistant coach**
-- 🌱 Learning **Next.js** & building cool projects  
-- 👨‍💻 Check out my portfolio: [harshnimbalkar](https://harsh-portfolioo.vercel.app/)  
-- 💬 Ask me about **Java, React, Next.js, UI Design**
-- 📫 Reach me at **harshnimbalkar6181@gmail.com**
-- ⚡ Fun fact: *I make bugs disappear with Ctrl+Z magic!* 🪄
+I’m an **entry‑level full stack developer** who loves building clean UIs and practical end‑to‑end projects.  
+Not super professional yet, but I can **ship solid frontend and full‑stack features** using modern tools.
 
 ---
 
-### 🛠 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,java,spring,git,firebase,mysql" />
-</p>
+### 🧠 Skills I Know
+- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Framer Motion / GSAP animations, Responsive UI
+- **Backend:** Node.js, Express.js, Java Spring Boot (learning + building), REST APIs, Auth integrations
+- **AI/Tools:** Gemini API, OpenAI basics, RAG ideas, embeddings, prompt engineering
+- **Databases:** MongoDB, Supabase, Firebase
+- **Dev Tools:** Git, GitHub, Docker (basics), Vercel deployment
 
 ---
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh6183&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6183&layout=compact&theme=react" alt="Top Languages" />
-</p>
+### 🔥 Projects I’ve Built  
+- **💡 QuickAid** — Google Maps API for nearby help + Twilio SMS alerts (planned integration)  
 
 ---
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/harsh-nimbalkar6183" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshnimbalkar6181@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🧩 What I’m Currently Learning
+- Java Spring Boot (backend focus for 2026 SDE goal)
+- DSA with LeetCode practice (topic + pattern wise)
+
 
 ---
 
-### ✨ Fun Quote:
-> “Code is like humor. When you have to explain it, it’s bad.”-
+### 🛠️ My Goal
+🎯 **Get placed as a Software Engineer (SDE) in 2026**  
+💼 Build **1–2 real problem‑solving projects** that help in interviews  
+⚡ Become better at backend architecture + scalable AI SaaS ideas  
+
+---
+
+### 📬 Let’s Connect
+- **GitHub:** You’re already here 😄
+- **LinkedIn:** www.linkedin.com/in/harsh-nimbalkar6183
+- **Email:** harshnimbalkar6181@gmail.com
+
+---
+
+⭐ Thanks for visiting — I’m always building + learning something new!
