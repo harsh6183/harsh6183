@@ -18,7 +18,7 @@ Not super professional yet, but I can **ship solid frontend and full‑stack fea
 
 ### 🔥 Projects I’ve Built  
 - **💡 QuickAid** — Google Maps API for nearby help + Twilio SMS alerts (planned integration)  
-
+- **⚡ Edito**  — Modern SaaS application frontend web design.  
 ---
 
 ### 🧩 What I’m Currently Learning
