@@ -9,7 +9,7 @@ Not super professional yet, but I can **ship solid frontend and full‑stack fea
 
 ### 🧠 Skills I Know
 - **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Framer Motion / GSAP animations, Responsive UI
-- **Backend:** Node.js, Express.js, Java Spring Boot (learning + building), REST APIs, Auth integrations
+- **Backend:** Java, Spring Boot, Spring AI, REST APIs, Microservices, Hibernate
 - **AI/Tools:** Gemini API, OpenAI basics, RAG ideas, embeddings, prompt engineering
 - **Databases:** MongoDB, Supabase, Firebase
 - **Dev Tools:** Git, GitHub, Docker (basics), Vercel deployment
