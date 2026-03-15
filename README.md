@@ -18,7 +18,7 @@ Not super professional yet, but I can **ship solid frontend and full‑stack fea
 
 ### 🔥 Projects I’ve Built  
 - **💡 QuickAid** — Google Maps API for nearby help + Twilio SMS alerts (planned integration)  
-- **⚡ **  — Modern SaaS application frontend web design.  
+- **⚡ Smart-AI-Email-Assistant-Chrome-Extension-**  — AI-powered Gmail Chrome Extension with Spring Boot backend for generating professional email replies and composing emails from subject lines.
 ---
 
 ### 🧩 What I’m Currently Learning
