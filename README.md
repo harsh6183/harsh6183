@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Harsh Nimbalkar
 
-### 🚀 Full‑Stack Developer • Frontend Enthusiast • Java + AI Builder
+### 🚀 Full‑Stack Developer  • Java + AI Builder
 
 I’m an **entry‑level full stack developer** who loves building clean UIs and practical end‑to‑end projects.  
 Not super professional yet, but I can **ship solid frontend and full‑stack features** using modern tools.
@@ -10,15 +10,15 @@ Not super professional yet, but I can **ship solid frontend and full‑stack fea
 ### 🧠 Skills I Know
 - **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Framer Motion / GSAP animations, Responsive UI
 - **Backend:** Java, Spring Boot, Spring AI, REST APIs, Microservices, Hibernate
-- **AI/Tools:** Gemini API, OpenAI basics, RAG ideas, embeddings, prompt engineering
-- **Databases:** MongoDB, Supabase, Firebase
-- **Dev Tools:** Git, GitHub, Docker (basics), Vercel deployment
+- **AI/Tools:** Gemini API, OpenAI , RAG ideas, embeddings, prompt engineering
+- **Databases:** MongoDB, Supabase, Firebase, My SQL
+- **Dev Tools:** Git, GitHub, Docker (basics), Vercel deployment, Render , Netlify
 
 ---
 
 ### 🔥 Projects I’ve Built  
 - **💡 QuickAid** — Google Maps API for nearby help + Twilio SMS alerts (planned integration)  
-- **⚡ Edito**  — Modern SaaS application frontend web design.  
+- **⚡ **  — Modern SaaS application frontend web design.  
 ---
 
 ### 🧩 What I’m Currently Learning
